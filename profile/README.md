@@ -12,11 +12,11 @@ Everything lives in [transfer-pricing-reference](https://github.com/myTransferPr
 
 | Material | Where |
 |---|---|
-| Country profiles for Belgium, Brazil, France, Germany, Greece, the Netherlands, Singapore, the United Kingdom and the United States, each adapted from that country's OECD transfer pricing country profile | [country-profiles/](https://github.com/myTransferPricing/transfer-pricing-reference/tree/main/country-profiles) |
+| Country profiles for 18 jurisdictions: Austria, Belgium, Brazil, Denmark, France, Germany, Greece, Ireland, Italy, Luxembourg, the Netherlands, Poland, Singapore, Spain, Sweden, Switzerland, the United Kingdom and the United States, each adapted from that country's OECD transfer pricing country profile | [country-profiles/](https://github.com/myTransferPricing/transfer-pricing-reference/tree/main/country-profiles) |
 | Prompts for AI assistants, starting with a review of a local file against a country profile | [prompts/](https://github.com/myTransferPricing/transfer-pricing-reference/tree/main/prompts) |
 | Disclaimers, the OECD licence check and how adapted material is attributed | [disclaimers/](https://github.com/myTransferPricing/transfer-pricing-reference/tree/main/disclaimers) |
 
-The same country rules are browsable at [mytransferpricing.com/country-profiles](https://mytransferpricing.com/country-profiles).
+Nine of the country profiles are also browsable at [mytransferpricing.com/country-profiles](https://mytransferpricing.com/country-profiles).
 
 ## Coming
 
