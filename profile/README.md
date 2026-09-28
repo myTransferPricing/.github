@@ -13,6 +13,7 @@ Everything lives in [transfer-pricing-reference](https://github.com/myTransferPr
 | Material | Where |
 |---|---|
 | Country profiles for Belgium, Brazil, France, Germany, Greece, the Netherlands, Singapore, the United Kingdom and the United States, each adapted from that country's OECD transfer pricing country profile | [country-profiles/](https://github.com/myTransferPricing/transfer-pricing-reference/tree/main/country-profiles) |
+| Prompts for AI assistants, starting with a review of a local file against a country profile | [prompts/](https://github.com/myTransferPricing/transfer-pricing-reference/tree/main/prompts) |
 | Disclaimers, the OECD licence check and how adapted material is attributed | [disclaimers/](https://github.com/myTransferPricing/transfer-pricing-reference/tree/main/disclaimers) |
 
 The same country rules are browsable at [mytransferpricing.com/country-profiles](https://mytransferpricing.com/country-profiles).
@@ -22,7 +23,7 @@ The same country rules are browsable at [mytransferpricing.com/country-profiles]
 - Chapter notes on the OECD Transfer Pricing Guidelines (2022 edition)
 - Benchmarking and arm's length range methods, including the interquartile range
 - Master file and local file documentation checklists (BEPS Action 13)
-- Prompts for using AI agents on transfer pricing work
+- More prompts for AI agents on transfer pricing work
 
 Two free tools already apply these methods, with no signup: the [arm's length range generator](https://mytransferpricing.com/tools/arm-length-range) and the [transfer pricing documentation checklist](https://mytransferpricing.com/tools/tp-documentation-checklist).
 
