@@ -1,6 +1,6 @@
 # Transfer pricing reference in plain markdown
 
-This organisation publishes open reference material on transfer pricing: the OECD Transfer Pricing Guidelines explained, country rules summarised from the OECD transfer pricing country profiles, benchmarking and arm's length range methods, documentation checklists and AI prompts. It is maintained by the team behind [myTransferPricing](https://mytransferpricing.com), an AI-first transfer pricing platform for in-house tax teams and advisory firms, hosted in the EU.
+We publish transfer pricing rules for 27 countries as plain markdown, adapted from the OECD transfer pricing country profiles, together with prompts for AI assistants. Everything is free to reuse under CC BY 4.0. It is maintained by the team behind [myTransferPricing](https://mytransferpricing.com), an AI-first transfer pricing platform for in-house tax teams and advisory firms, hosted in the EU.
 
 ## Why
 
@@ -12,7 +12,7 @@ Everything lives in [transfer-pricing-reference](https://github.com/myTransferPr
 
 | Material | Where |
 |---|---|
-| Country profiles for 18 jurisdictions: Austria, Belgium, Brazil, Denmark, France, Germany, Greece, Ireland, Italy, Luxembourg, the Netherlands, Poland, Singapore, Spain, Sweden, Switzerland, the United Kingdom and the United States, each adapted from that country's OECD transfer pricing country profile | [country-profiles/](https://github.com/myTransferPricing/transfer-pricing-reference/tree/main/country-profiles) |
+| Country profiles for 27 jurisdictions: Australia, Austria, Belgium, Brazil, Canada, China, the Czech Republic, Denmark, France, Germany, Greece, Ireland, Italy, Japan, Luxembourg, Malaysia, Mexico, the Netherlands, New Zealand, Poland, Singapore, Spain, Sweden, Switzerland, the United Arab Emirates, the United Kingdom and the United States, each adapted from that country's OECD transfer pricing country profile | [country-profiles/](https://github.com/myTransferPricing/transfer-pricing-reference/tree/main/country-profiles) |
 | Prompts for AI assistants, starting with a review of a local file against a country profile | [prompts/](https://github.com/myTransferPricing/transfer-pricing-reference/tree/main/prompts) |
 | Disclaimers, the OECD licence check and how adapted material is attributed | [disclaimers/](https://github.com/myTransferPricing/transfer-pricing-reference/tree/main/disclaimers) |
 
